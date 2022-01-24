@@ -1,18 +1,18 @@
-# Quantitative analysis for a FinTech investing platform
+# Building a tool to help credit union members evaluate their financial health
 ### Task 
-Evaluate four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. (People sometimes refer to these managers as whales because of the large amount of money that they manage). You’ll need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
+Specifically, the credit union board wants the members to be able to do two things. First, they should be able to assess their monthly budgets. Second, they should be able to forecast a reasonably effective retirement plan based on their current holdings of cryptocurrencies, stocks, and bonds. The chief technology officer (CTO) of the credit union wants you to develop a prototype application to present at its next assembly.
 
 ---
 
 ## Installation Guide
-1. Clone this project using git with the following command: `git clone git@github.com:galcivar/module_04.git`
+1. Clone this project using git with the following command: `git clone git@github.com:galcivar/module_05.git`
 2. Install Python you should follow this instructions depending on you OS: https://realpython.com/installing-python/
 
 ---
 
 ## Usage
 You can use this program by navigating to the folder of the project (where app.py is) and run:
-`jupiter lab` then open the `risk_return_analysis.ipynb` file in Jupiter Lab
+`jupiter lab` then open the `financial_planning_tools.ipynb` file in Jupiter Lab
 
 ---
 
